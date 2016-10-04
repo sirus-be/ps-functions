@@ -21,3 +21,10 @@ TransformXml usage:
 	TransformXml $sourceFile $transformationFile $targetFile
 
 See Tests folder for more samples.
+
+## Setup Powershell
+
+Setup Powershell
+
+	Set-ExecutionPolicy RemoteSigned
+
